@@ -18,3 +18,114 @@
 [2024-07-14 02:09:30,703: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
 
 x==========x]
+[2024-07-14 14:21:28,949: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-14 14:21:28,950: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-14 14:21:28,951: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-14 14:21:28,952: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-14 14:21:28,952: INFO: common: created directory at: artifacts]
+[2024-07-14 14:21:28,952: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-14 14:21:29,309: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 25472
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "5e6a6b65479ff3a7e61914b615ddb93cb8573d6c5de8c86c37b198114d9ede05"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 291C:222709:FD0EF8:118327B:66941728
+Accept-Ranges: bytes
+Date: Sun, 14 Jul 2024 18:21:29 GMT
+Via: 1.1 varnish
+X-Served-By: cache-iad-kjyo7100137-IAD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1720981289.255430,VS0,VE70
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: b3eed8358888570e0b1c17b8391f3260feeeab60
+Expires: Sun, 14 Jul 2024 18:26:29 GMT
+Source-Age: 0
+
+]
+[2024-07-14 14:21:29,314: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-14 17:37:05,501: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-14 17:37:05,505: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-14 17:37:05,505: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-14 17:37:05,506: INFO: common: created directory at: artifacts]
+[2024-07-14 17:37:17,324: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-14 17:37:17,327: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-14 17:37:17,328: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-14 17:37:17,329: INFO: common: created directory at: artifacts]
+[2024-07-14 17:39:31,132: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-14 17:39:31,134: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-14 17:39:31,135: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-14 17:39:31,136: INFO: common: created directory at: artifacts]
+[2024-07-14 17:44:42,612: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-14 17:44:42,614: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-14 17:44:42,615: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-14 17:44:42,616: INFO: common: created directory at: artifacts]
+[2024-07-14 17:52:03,548: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-14 17:52:03,551: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-14 17:52:03,553: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-14 17:52:03,554: INFO: common: created directory at: artifacts]
+[2024-07-14 17:52:03,554: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-14 18:42:00,585: INFO: stage_02_data_validation : >>>>>> stage Data Validation stage started <<<<<<]
+[2024-07-14 18:42:00,586: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-14 18:42:00,587: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-14 18:42:00,588: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-14 18:42:00,588: INFO: common: created directory at: artifacts]
+[2024-07-14 18:42:00,588: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-14 18:42:00,593: INFO: stage_02_data_validation : >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-07-14 19:07:01,649: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-14 19:07:01,650: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-14 19:07:01,651: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-14 19:07:01,651: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-14 19:07:01,651: INFO: common: created directory at: artifacts]
+[2024-07-14 19:07:01,652: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-14 19:07:02,006: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 25472
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "5e6a6b65479ff3a7e61914b615ddb93cb8573d6c5de8c86c37b198114d9ede05"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 3D4D:3EC9AE:1157249:1339EDE:66945A15
+Accept-Ranges: bytes
+Date: Sun, 14 Jul 2024 23:07:01 GMT
+Via: 1.1 varnish
+X-Served-By: cache-iad-kjyo7100158-IAD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1720998422.925987,VS0,VE73
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 62b43aee5a5e72f03fd8956f00473ca4930ec1cc
+Expires: Sun, 14 Jul 2024 23:12:01 GMT
+Source-Age: 0
+
+]
+[2024-07-14 19:07:02,011: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-14 19:07:02,011: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-07-14 19:07:02,012: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-14 19:07:02,013: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-14 19:07:02,017: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-14 19:07:02,017: INFO: common: created directory at: artifacts]
+[2024-07-14 19:07:02,018: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-14 19:07:02,029: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
