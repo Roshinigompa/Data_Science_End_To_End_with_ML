@@ -1,1 +1,7 @@
-key: val
+#In this i am using Elasticnet model  that's why i am considering alpha and l1 ratio
+
+ElasticNet:
+  alpha: 0.2
+  l1_ratio: 0.1
+
+#If you are using random forest or decision tree or any other modal just define those params here
