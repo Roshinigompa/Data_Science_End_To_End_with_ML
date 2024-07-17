@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/mlruns/0/82b886aa13b546cba491f9e0136b2c1d/artifacts
+end_time: 1721192939219
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82b886aa13b546cba491f9e0136b2c1d
+run_name: puzzled-mare-354
+run_uuid: 82b886aa13b546cba491f9e0136b2c1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721192938062
+status: 3
+tags: []
+user_id: hymaroshinigompa

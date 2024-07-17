@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/mlruns/0/f34c7f40a32d43f5bda9541eb50eb12e/artifacts
+end_time: 1721228532764
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f34c7f40a32d43f5bda9541eb50eb12e
+run_name: intelligent-elk-831
+run_uuid: f34c7f40a32d43f5bda9541eb50eb12e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721228531674
+status: 3
+tags: []
+user_id: hymaroshinigompa

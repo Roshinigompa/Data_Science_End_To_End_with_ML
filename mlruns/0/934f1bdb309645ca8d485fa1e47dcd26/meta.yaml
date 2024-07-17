@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/mlruns/0/934f1bdb309645ca8d485fa1e47dcd26/artifacts
+end_time: 1721191013344
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 934f1bdb309645ca8d485fa1e47dcd26
+run_name: bald-doe-868
+run_uuid: 934f1bdb309645ca8d485fa1e47dcd26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721191012061
+status: 3
+tags: []
+user_id: hymaroshinigompa

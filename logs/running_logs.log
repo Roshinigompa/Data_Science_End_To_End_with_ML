@@ -534,3 +534,1405 @@ x==========x]
 [2024-07-15 01:05:14,406: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
 
 x==========x]
+[2024-07-16 17:06:52,295: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-16 17:06:52,296: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-16 17:06:52,298: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-16 17:06:52,298: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-16 17:06:52,299: INFO: common: created directory at: artifacts]
+[2024-07-16 17:06:52,299: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-16 17:06:52,299: INFO: data_ingestion: File already exists of size: ~ 25 KB]
+[2024-07-16 17:06:52,302: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-16 17:06:52,302: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-07-16 17:06:52,302: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-16 17:06:52,303: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-16 17:06:52,303: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-16 17:06:52,303: INFO: common: created directory at: artifacts]
+[2024-07-16 17:06:52,303: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-16 17:06:52,310: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-07-16 17:06:52,310: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-07-16 17:06:52,310: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-16 17:06:52,311: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-16 17:06:52,311: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-16 17:06:52,311: INFO: common: created directory at: artifacts]
+[2024-07-16 17:06:52,311: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-16 17:06:52,321: INFO: data_transformation: Splited data into training and test sets]
+[2024-07-16 17:06:52,321: INFO: data_transformation: (1199, 12)]
+[2024-07-16 17:06:52,321: INFO: data_transformation: (400, 12)]
+[2024-07-16 17:06:52,321: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-07-16 17:06:52,321: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-07-16 17:06:52,322: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-16 17:06:52,322: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-16 17:06:52,323: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-16 17:06:52,323: INFO: common: created directory at: artifacts]
+[2024-07-16 17:06:52,323: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-16 17:06:52,330: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-07-16 21:53:54,470: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-16 21:53:54,509: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-16 21:53:54,510: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-16 21:53:54,512: INFO: common: created directory at: artifacts]
+[2024-07-16 21:56:53,632: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-16 21:56:53,635: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-16 21:56:53,637: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-16 21:56:53,639: INFO: common: created directory at: artifacts]
+[2024-07-16 21:59:48,581: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-16 21:59:48,584: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-16 21:59:48,585: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-16 21:59:48,586: INFO: common: created directory at: artifacts]
+[2024-07-16 21:59:48,587: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-16 22:02:11,199: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-16 22:02:11,202: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-16 22:02:11,204: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-16 22:02:11,205: INFO: common: created directory at: artifacts]
+[2024-07-16 22:02:11,205: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-16 22:05:13,995: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-16 22:05:13,999: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-16 22:05:14,000: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-16 22:05:14,001: INFO: common: created directory at: artifacts]
+[2024-07-16 22:05:14,001: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-17 00:36:51,773: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-17 00:36:51,774: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 00:36:51,776: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 00:36:51,776: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 00:36:51,776: INFO: common: created directory at: artifacts]
+[2024-07-17 00:36:51,776: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-17 00:36:51,776: INFO: data_ingestion: File already exists of size: ~ 25 KB]
+[2024-07-17 00:36:51,779: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-17 00:36:51,779: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-07-17 00:36:51,779: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 00:36:51,780: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 00:36:51,780: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 00:36:51,780: INFO: common: created directory at: artifacts]
+[2024-07-17 00:36:51,780: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-17 00:36:51,786: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 00:36:51,786: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-07-17 00:36:51,787: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 00:36:51,787: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 00:36:51,787: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 00:36:51,787: INFO: common: created directory at: artifacts]
+[2024-07-17 00:36:51,787: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-17 00:36:51,799: INFO: data_transformation: Splited data into training and test sets]
+[2024-07-17 00:36:51,799: INFO: data_transformation: (1199, 12)]
+[2024-07-17 00:36:51,799: INFO: data_transformation: (400, 12)]
+[2024-07-17 00:36:51,799: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 00:36:51,799: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-07-17 00:36:51,800: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 00:36:51,800: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 00:36:51,801: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 00:36:51,801: INFO: common: created directory at: artifacts]
+[2024-07-17 00:36:51,801: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-17 00:36:51,811: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-07-17 00:36:51,811: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-07-17 00:36:51,811: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 00:36:51,812: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 00:36:51,812: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 00:36:51,812: INFO: common: created directory at: artifacts]
+[2024-07-17 00:36:51,812: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-17 00:36:52,067: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-07-17 00:36:53,344: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 00:40:21,175: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-17 00:40:21,177: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 00:40:21,178: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 00:40:21,179: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 00:40:21,179: INFO: common: created directory at: artifacts]
+[2024-07-17 00:40:21,179: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-17 00:40:22,522: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 8208:3C8307:53C84:5FC1F:66974B35
+Accept-Ranges: bytes
+Date: Wed, 17 Jul 2024 04:40:22 GMT
+Via: 1.1 varnish
+X-Served-By: cache-iad-kjyo7100042-IAD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1721191222.486804,VS0,VE62
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 4d853c2e5f3cb6e88a2e5c69e51648f8be6c04f0
+Expires: Wed, 17 Jul 2024 04:45:22 GMT
+Source-Age: 0
+
+]
+[2024-07-17 00:40:22,526: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-17 00:40:22,526: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-07-17 00:40:22,529: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 00:40:22,531: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 00:40:22,532: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 00:40:22,533: INFO: common: created directory at: artifacts]
+[2024-07-17 00:40:22,533: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-17 00:40:22,543: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 00:40:22,543: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-07-17 00:40:22,544: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 00:40:22,545: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 00:40:22,546: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 00:40:22,546: INFO: common: created directory at: artifacts]
+[2024-07-17 00:40:22,546: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-17 00:40:22,561: INFO: data_transformation: Splited data into training and test sets]
+[2024-07-17 00:40:22,561: INFO: data_transformation: (1199, 12)]
+[2024-07-17 00:40:22,561: INFO: data_transformation: (400, 12)]
+[2024-07-17 00:40:22,561: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 00:40:22,561: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-07-17 00:40:22,562: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 00:40:22,563: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 00:40:22,563: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 00:40:22,563: INFO: common: created directory at: artifacts]
+[2024-07-17 00:40:22,563: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-17 00:40:22,572: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-07-17 00:40:22,572: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-07-17 00:40:22,573: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 00:40:22,573: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 00:40:22,573: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 00:40:22,573: INFO: common: created directory at: artifacts]
+[2024-07-17 00:40:22,574: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-17 00:40:22,818: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-07-17 00:40:24,027: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 00:41:46,861: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-17 00:41:46,862: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 00:41:46,862: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 00:41:46,863: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 00:41:46,863: INFO: common: created directory at: artifacts]
+[2024-07-17 00:41:46,863: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-17 00:41:47,124: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 8208:3C8307:53C84:5FC1F:66974B35
+Accept-Ranges: bytes
+Date: Wed, 17 Jul 2024 04:41:47 GMT
+Via: 1.1 varnish
+X-Served-By: cache-iad-kjyo7100074-IAD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1721191307.173009,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 19ae76aec9be52bd2642dfff7caf7858478615b8
+Expires: Wed, 17 Jul 2024 04:46:47 GMT
+Source-Age: 85
+
+]
+[2024-07-17 00:41:47,126: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-17 00:41:47,126: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-07-17 00:41:47,128: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 00:41:47,128: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 00:41:47,129: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 00:41:47,129: INFO: common: created directory at: artifacts]
+[2024-07-17 00:41:47,130: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-17 00:41:47,134: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 00:41:47,134: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-07-17 00:41:47,137: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 00:41:47,137: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 00:41:47,138: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 00:41:47,138: INFO: common: created directory at: artifacts]
+[2024-07-17 00:41:47,138: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-17 00:41:47,148: INFO: data_transformation: Splited data into training and test sets]
+[2024-07-17 00:41:47,149: INFO: data_transformation: (1199, 12)]
+[2024-07-17 00:41:47,149: INFO: data_transformation: (400, 12)]
+[2024-07-17 00:41:47,149: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 00:41:47,149: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-07-17 00:41:47,150: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 00:41:47,150: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 00:41:47,151: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 00:41:47,151: INFO: common: created directory at: artifacts]
+[2024-07-17 00:41:47,151: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-17 00:41:47,155: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-07-17 00:41:47,155: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-07-17 00:41:47,156: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 00:41:47,157: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 00:41:47,157: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 00:41:47,157: INFO: common: created directory at: artifacts]
+[2024-07-17 00:41:47,157: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-17 00:41:47,403: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-07-17 00:41:48,621: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 00:48:29,434: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-17 00:48:29,435: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 00:48:29,436: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 00:48:29,436: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 00:48:29,437: INFO: common: created directory at: artifacts]
+[2024-07-17 00:48:29,437: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-17 00:48:29,437: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-07-17 00:48:29,438: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-17 00:48:29,439: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-07-17 00:48:29,439: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 00:48:29,439: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 00:48:29,440: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 00:48:29,440: INFO: common: created directory at: artifacts]
+[2024-07-17 00:48:29,440: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-17 00:48:29,443: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 00:48:29,443: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-07-17 00:48:29,444: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 00:48:29,444: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 00:48:29,444: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 00:48:29,444: INFO: common: created directory at: artifacts]
+[2024-07-17 00:48:29,445: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-17 00:48:29,453: INFO: data_transformation: Splited data into training and test sets]
+[2024-07-17 00:48:29,453: INFO: data_transformation: (1199, 12)]
+[2024-07-17 00:48:29,453: INFO: data_transformation: (400, 12)]
+[2024-07-17 00:48:29,453: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 00:48:29,453: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-07-17 00:48:29,454: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 00:48:29,455: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 00:48:29,455: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 00:48:29,455: INFO: common: created directory at: artifacts]
+[2024-07-17 00:48:29,455: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-17 00:48:29,462: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-07-17 00:48:29,462: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-07-17 00:48:29,463: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 00:48:29,463: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 00:48:29,463: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 00:48:29,464: INFO: common: created directory at: artifacts]
+[2024-07-17 00:48:29,464: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-17 00:48:29,704: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-07-17 00:48:30,857: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 00:54:03,344: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-17 00:54:03,345: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 00:54:03,346: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 00:54:03,346: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 00:54:03,347: INFO: common: created directory at: artifacts]
+[2024-07-17 00:54:03,347: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-17 00:54:03,347: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-07-17 00:54:03,348: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-17 00:54:03,348: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-07-17 00:54:03,349: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 00:54:03,349: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 00:54:03,349: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 00:54:03,349: INFO: common: created directory at: artifacts]
+[2024-07-17 00:54:03,349: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-17 00:54:03,352: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 00:54:03,352: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-07-17 00:54:03,352: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 00:54:03,353: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 00:54:03,353: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 00:54:03,353: INFO: common: created directory at: artifacts]
+[2024-07-17 00:54:03,353: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-17 00:54:03,363: INFO: data_transformation: Splited data into training and test sets]
+[2024-07-17 00:54:03,363: INFO: data_transformation: (1199, 12)]
+[2024-07-17 00:54:03,363: INFO: data_transformation: (400, 12)]
+[2024-07-17 00:54:03,364: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 00:54:03,364: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-07-17 00:54:03,364: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 00:54:03,365: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 00:54:03,365: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 00:54:03,365: INFO: common: created directory at: artifacts]
+[2024-07-17 00:54:03,365: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-17 00:54:03,373: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-07-17 00:54:03,373: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-07-17 00:54:03,374: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 00:54:03,374: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 00:54:03,375: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 00:54:03,375: INFO: common: created directory at: artifacts]
+[2024-07-17 00:54:03,375: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-17 00:54:03,587: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-07-17 00:54:04,753: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 01:01:08,487: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-17 01:01:08,488: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 01:01:08,488: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 01:01:08,489: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 01:01:08,489: INFO: common: created directory at: artifacts]
+[2024-07-17 01:01:08,489: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-17 01:01:08,489: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-07-17 01:01:08,490: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-17 01:01:08,490: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-07-17 01:01:08,491: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 01:01:08,491: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 01:01:08,492: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 01:01:08,492: INFO: common: created directory at: artifacts]
+[2024-07-17 01:01:08,492: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-17 01:01:08,494: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 01:01:08,494: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-07-17 01:01:08,495: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 01:01:08,495: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 01:01:08,495: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 01:01:08,495: INFO: common: created directory at: artifacts]
+[2024-07-17 01:01:08,495: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-17 01:01:08,505: INFO: data_transformation: Splited data into training and test sets]
+[2024-07-17 01:01:08,505: INFO: data_transformation: (1199, 12)]
+[2024-07-17 01:01:08,505: INFO: data_transformation: (400, 12)]
+[2024-07-17 01:01:08,505: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 01:01:08,505: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-07-17 01:01:08,506: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 01:01:08,506: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 01:01:08,506: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 01:01:08,506: INFO: common: created directory at: artifacts]
+[2024-07-17 01:01:08,506: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-17 01:01:08,512: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-07-17 01:01:08,512: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-07-17 01:01:08,513: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 01:01:08,513: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 01:01:08,514: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 01:01:08,514: INFO: common: created directory at: artifacts]
+[2024-07-17 01:01:08,514: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-17 01:01:08,727: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-07-17 01:01:09,906: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 01:08:57,811: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-17 01:08:57,812: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 01:08:57,813: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 01:08:57,814: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 01:08:57,814: INFO: common: created directory at: artifacts]
+[2024-07-17 01:08:57,814: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-17 01:08:57,814: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-07-17 01:08:57,815: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-17 01:08:57,815: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-07-17 01:08:57,816: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 01:08:57,816: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 01:08:57,817: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 01:08:57,817: INFO: common: created directory at: artifacts]
+[2024-07-17 01:08:57,817: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-17 01:08:57,821: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 01:08:57,821: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-07-17 01:08:57,822: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 01:08:57,822: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 01:08:57,823: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 01:08:57,823: INFO: common: created directory at: artifacts]
+[2024-07-17 01:08:57,823: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-17 01:08:57,832: INFO: data_transformation: Splited data into training and test sets]
+[2024-07-17 01:08:57,832: INFO: data_transformation: (1199, 12)]
+[2024-07-17 01:08:57,832: INFO: data_transformation: (400, 12)]
+[2024-07-17 01:08:57,832: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 01:08:57,832: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-07-17 01:08:57,833: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 01:08:57,833: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 01:08:57,833: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 01:08:57,833: INFO: common: created directory at: artifacts]
+[2024-07-17 01:08:57,833: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-17 01:08:57,840: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-07-17 01:08:57,840: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-07-17 01:08:57,841: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 01:08:57,842: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 01:08:57,842: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 01:08:57,842: INFO: common: created directory at: artifacts]
+[2024-07-17 01:08:57,842: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-17 01:08:58,068: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-07-17 01:08:59,219: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 01:14:29,321: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-17 01:14:29,322: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 01:14:29,323: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 01:14:29,323: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 01:14:29,324: INFO: common: created directory at: artifacts]
+[2024-07-17 01:14:29,324: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-17 01:14:29,733: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 8208:3C8307:53C84:5FC1F:66974B35
+Accept-Ranges: bytes
+Date: Wed, 17 Jul 2024 05:14:29 GMT
+Via: 1.1 varnish
+X-Served-By: cache-iad-kjyo7100178-IAD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1721193270.713036,VS0,VE51
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 9bebc748fc3d6eb78aba7d59b1aa112d90516401
+Expires: Wed, 17 Jul 2024 05:19:29 GMT
+Source-Age: 0
+
+]
+[2024-07-17 01:14:29,737: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-17 01:14:29,737: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-07-17 01:14:29,740: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 01:14:29,741: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 01:14:29,743: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 01:14:29,743: INFO: common: created directory at: artifacts]
+[2024-07-17 01:14:29,744: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-17 01:14:29,752: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 01:14:29,752: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-07-17 01:14:29,754: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 01:14:29,754: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 01:14:29,755: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 01:14:29,756: INFO: common: created directory at: artifacts]
+[2024-07-17 01:14:29,756: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-17 01:14:29,770: INFO: data_transformation: Splited data into training and test sets]
+[2024-07-17 01:14:29,770: INFO: data_transformation: (1199, 12)]
+[2024-07-17 01:14:29,770: INFO: data_transformation: (400, 12)]
+[2024-07-17 01:14:29,770: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 01:14:29,770: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-07-17 01:14:29,771: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 01:14:29,772: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 01:14:29,772: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 01:14:29,773: INFO: common: created directory at: artifacts]
+[2024-07-17 01:14:29,773: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-17 01:14:29,781: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-07-17 01:14:29,781: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-07-17 01:14:29,782: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 01:14:29,782: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 01:14:29,783: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 01:14:29,783: INFO: common: created directory at: artifacts]
+[2024-07-17 01:14:29,783: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-17 01:14:30,112: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-07-17 01:14:31,310: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 02:21:57,118: INFO: stage_05_model_evaluation: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-07-17 02:21:57,119: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 02:21:57,119: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 02:21:57,120: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 02:21:57,120: INFO: common: created directory at: artifacts]
+[2024-07-17 02:21:57,120: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-17 02:21:57,383: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-07-17 02:21:58,565: INFO: stage_05_model_evaluation: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 02:53:26,705: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-17 02:53:26,706: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 02:53:26,707: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 02:53:26,708: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 02:53:26,708: INFO: common: created directory at: artifacts]
+[2024-07-17 02:53:26,708: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-17 02:53:26,708: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-07-17 02:53:26,710: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-17 02:53:26,710: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-07-17 02:53:26,711: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 02:53:26,711: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 02:53:26,712: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 02:53:26,712: INFO: common: created directory at: artifacts]
+[2024-07-17 02:53:26,712: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-17 02:53:26,716: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 02:53:26,716: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-07-17 02:53:26,717: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 02:53:26,718: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 02:53:26,718: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 02:53:26,718: INFO: common: created directory at: artifacts]
+[2024-07-17 02:53:26,718: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-17 02:53:26,729: INFO: data_transformation: Splited data into training and test sets]
+[2024-07-17 02:53:26,729: INFO: data_transformation: (1199, 12)]
+[2024-07-17 02:53:26,729: INFO: data_transformation: (400, 12)]
+[2024-07-17 02:53:26,729: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 02:53:26,729: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-07-17 02:53:26,729: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 02:53:26,730: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 02:53:26,730: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 02:53:26,730: INFO: common: created directory at: artifacts]
+[2024-07-17 02:53:26,730: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-17 02:53:26,736: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-07-17 02:53:26,736: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-07-17 02:53:26,737: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 02:53:26,738: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 02:53:26,738: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 02:53:26,738: INFO: common: created directory at: artifacts]
+[2024-07-17 02:53:26,738: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-17 02:53:26,971: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-07-17 02:53:28,128: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 03:00:35,442: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-17 03:00:35,443: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 03:00:35,444: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 03:00:35,445: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 03:00:35,445: INFO: common: created directory at: artifacts]
+[2024-07-17 03:00:35,445: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-17 03:00:35,445: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-07-17 03:00:35,448: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-17 03:00:35,448: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-07-17 03:00:35,448: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 03:00:35,449: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 03:00:35,449: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 03:00:35,449: INFO: common: created directory at: artifacts]
+[2024-07-17 03:00:35,449: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-17 03:00:35,453: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 03:00:35,453: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-07-17 03:00:35,454: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 03:00:35,454: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 03:00:35,454: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 03:00:35,455: INFO: common: created directory at: artifacts]
+[2024-07-17 03:00:35,455: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-17 03:00:35,464: INFO: data_transformation: Splited data into training and test sets]
+[2024-07-17 03:00:35,464: INFO: data_transformation: (1199, 12)]
+[2024-07-17 03:00:35,464: INFO: data_transformation: (400, 12)]
+[2024-07-17 03:00:35,464: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 03:00:35,464: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-07-17 03:00:35,465: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 03:00:35,465: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 03:00:35,465: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 03:00:35,466: INFO: common: created directory at: artifacts]
+[2024-07-17 03:00:35,466: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-17 03:00:35,472: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-07-17 03:00:35,472: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-07-17 03:00:35,473: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 03:00:35,473: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 03:00:35,474: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 03:00:35,474: INFO: common: created directory at: artifacts]
+[2024-07-17 03:00:35,474: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-17 03:00:35,713: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-07-17 03:00:36,868: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 03:05:28,395: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-17 03:05:28,396: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 03:05:28,397: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 03:05:28,397: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 03:05:28,397: INFO: common: created directory at: artifacts]
+[2024-07-17 03:05:28,397: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-17 03:05:28,397: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-07-17 03:05:28,399: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-17 03:05:28,399: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-07-17 03:05:28,400: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 03:05:28,400: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 03:05:28,400: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 03:05:28,400: INFO: common: created directory at: artifacts]
+[2024-07-17 03:05:28,401: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-17 03:05:28,403: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 03:05:28,403: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-07-17 03:05:28,403: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 03:05:28,404: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 03:05:28,404: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 03:05:28,404: INFO: common: created directory at: artifacts]
+[2024-07-17 03:05:28,404: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-17 03:05:28,412: INFO: data_transformation: Splited data into training and test sets]
+[2024-07-17 03:05:28,412: INFO: data_transformation: (1199, 12)]
+[2024-07-17 03:05:28,412: INFO: data_transformation: (400, 12)]
+[2024-07-17 03:05:28,412: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 03:05:28,412: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-07-17 03:05:28,413: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 03:05:28,413: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 03:05:28,414: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 03:05:28,414: INFO: common: created directory at: artifacts]
+[2024-07-17 03:05:28,414: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-17 03:05:28,416: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-07-17 03:05:28,416: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-07-17 03:05:28,417: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 03:05:28,417: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 03:05:28,418: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 03:05:28,418: INFO: common: created directory at: artifacts]
+[2024-07-17 03:05:28,418: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-17 03:05:28,649: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-07-17 03:05:29,829: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 03:21:28,561: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-17 03:21:28,562: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 03:21:28,563: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 03:21:28,564: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 03:21:28,564: INFO: common: created directory at: artifacts]
+[2024-07-17 03:21:28,564: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-17 03:21:28,564: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-07-17 03:21:28,566: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-17 03:21:28,566: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-07-17 03:21:28,567: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 03:21:28,567: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 03:21:28,567: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 03:21:28,567: INFO: common: created directory at: artifacts]
+[2024-07-17 03:21:28,567: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-17 03:21:28,572: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 03:21:28,572: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-07-17 03:21:28,573: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 03:21:28,573: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 03:21:28,574: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 03:21:28,574: INFO: common: created directory at: artifacts]
+[2024-07-17 03:21:28,574: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-17 03:21:28,586: INFO: data_transformation: Splited data into training and test sets]
+[2024-07-17 03:21:28,586: INFO: data_transformation: (1199, 12)]
+[2024-07-17 03:21:28,586: INFO: data_transformation: (400, 12)]
+[2024-07-17 03:21:28,586: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 03:21:28,586: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-07-17 03:21:28,587: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 03:21:28,587: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 03:21:28,588: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 03:21:28,588: INFO: common: created directory at: artifacts]
+[2024-07-17 03:21:28,588: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-17 03:21:28,596: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-07-17 03:21:28,596: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-07-17 03:21:28,597: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 03:21:28,597: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 03:21:28,598: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 03:21:28,598: INFO: common: created directory at: artifacts]
+[2024-07-17 03:21:28,598: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-17 03:21:28,815: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-07-17 03:21:29,990: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 10:57:03,827: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-17 10:57:03,828: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 10:57:03,828: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 10:57:03,829: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 10:57:03,829: INFO: common: created directory at: artifacts]
+[2024-07-17 10:57:03,829: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-17 10:57:03,872: ERROR: main: <urlopen error [Errno 8] nodename nor servname provided, or not known>]
+Traceback (most recent call last):
+  File "/Users/hymaroshinigompa/Documents/softwares/anaconda3/lib/python3.12/urllib/request.py", line 1344, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/Users/hymaroshinigompa/Documents/softwares/anaconda3/lib/python3.12/http/client.py", line 1336, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/Users/hymaroshinigompa/Documents/softwares/anaconda3/lib/python3.12/http/client.py", line 1382, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/Users/hymaroshinigompa/Documents/softwares/anaconda3/lib/python3.12/http/client.py", line 1331, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/Users/hymaroshinigompa/Documents/softwares/anaconda3/lib/python3.12/http/client.py", line 1091, in _send_output
+    self.send(msg)
+  File "/Users/hymaroshinigompa/Documents/softwares/anaconda3/lib/python3.12/http/client.py", line 1035, in send
+    self.connect()
+  File "/Users/hymaroshinigompa/Documents/softwares/anaconda3/lib/python3.12/http/client.py", line 1470, in connect
+    super().connect()
+  File "/Users/hymaroshinigompa/Documents/softwares/anaconda3/lib/python3.12/http/client.py", line 1001, in connect
+    self.sock = self._create_connection(
+                ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hymaroshinigompa/Documents/softwares/anaconda3/lib/python3.12/socket.py", line 829, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hymaroshinigompa/Documents/softwares/anaconda3/lib/python3.12/socket.py", line 964, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/main.py", line 13, in <module>
+    data_ingestion.main()
+  File "/Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/src/mlProject/pipeline/stage_01_data_ingestion.py", line 17, in main
+    data_ingestion.download_file()
+  File "/Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/src/mlProject/components/data_ingestion.py", line 18, in download_file
+    filename, headers = request.urlretrieve(
+                        ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hymaroshinigompa/Documents/softwares/anaconda3/lib/python3.12/urllib/request.py", line 240, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+                            ^^^^^^^^^^^^^^^^^^
+  File "/Users/hymaroshinigompa/Documents/softwares/anaconda3/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hymaroshinigompa/Documents/softwares/anaconda3/lib/python3.12/urllib/request.py", line 515, in open
+    response = self._open(req, data)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hymaroshinigompa/Documents/softwares/anaconda3/lib/python3.12/urllib/request.py", line 532, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hymaroshinigompa/Documents/softwares/anaconda3/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/Users/hymaroshinigompa/Documents/softwares/anaconda3/lib/python3.12/urllib/request.py", line 1392, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hymaroshinigompa/Documents/softwares/anaconda3/lib/python3.12/urllib/request.py", line 1347, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+[2024-07-17 10:58:29,558: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-17 10:58:29,559: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 10:58:29,560: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 10:58:29,560: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 10:58:29,560: INFO: common: created directory at: artifacts]
+[2024-07-17 10:58:29,560: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-17 10:58:30,103: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 70CA:2A7568:10898A:11E9D5:6697DC14
+Accept-Ranges: bytes
+Date: Wed, 17 Jul 2024 14:58:30 GMT
+Via: 1.1 varnish
+X-Served-By: cache-iad-kcgs7200095-IAD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1721228310.016483,VS0,VE63
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 33576af923326d3cd2a32c8eab0092164f5a9e9e
+Expires: Wed, 17 Jul 2024 15:03:30 GMT
+Source-Age: 0
+
+]
+[2024-07-17 10:58:30,109: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-17 10:58:30,109: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-07-17 10:58:30,111: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 10:58:30,113: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 10:58:30,114: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 10:58:30,114: INFO: common: created directory at: artifacts]
+[2024-07-17 10:58:30,114: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-17 10:58:30,120: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 10:58:30,120: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-07-17 10:58:30,121: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 10:58:30,122: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 10:58:30,122: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 10:58:30,123: INFO: common: created directory at: artifacts]
+[2024-07-17 10:58:30,123: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-17 10:58:30,138: INFO: data_transformation: Splited data into training and test sets]
+[2024-07-17 10:58:30,138: INFO: data_transformation: (1199, 12)]
+[2024-07-17 10:58:30,138: INFO: data_transformation: (400, 12)]
+[2024-07-17 10:58:30,138: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 10:58:30,138: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-07-17 10:58:30,139: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 10:58:30,140: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 10:58:30,140: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 10:58:30,141: INFO: common: created directory at: artifacts]
+[2024-07-17 10:58:30,141: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-17 10:58:30,152: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-07-17 10:58:30,152: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-07-17 10:58:30,153: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 10:58:30,153: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 10:58:30,154: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 10:58:30,154: INFO: common: created directory at: artifacts]
+[2024-07-17 10:58:30,154: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-17 10:58:30,416: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-07-17 10:58:31,623: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 11:01:54,313: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:01:54,314: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:01:54,315: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:01:54,315: INFO: common: created directory at: artifacts]
+[2024-07-17 11:01:54,315: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-17 11:01:54,729: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-07-17 11:02:11,511: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-17 11:02:11,512: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:02:11,512: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:02:11,513: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:02:11,513: INFO: common: created directory at: artifacts]
+[2024-07-17 11:02:11,513: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-17 11:02:11,513: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-07-17 11:02:11,514: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-17 11:02:11,514: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-07-17 11:02:11,515: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:02:11,515: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:02:11,516: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:02:11,516: INFO: common: created directory at: artifacts]
+[2024-07-17 11:02:11,516: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-17 11:02:11,518: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 11:02:11,518: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-07-17 11:02:11,519: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:02:11,519: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:02:11,519: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:02:11,519: INFO: common: created directory at: artifacts]
+[2024-07-17 11:02:11,520: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-17 11:02:11,526: INFO: data_transformation: Splited data into training and test sets]
+[2024-07-17 11:02:11,526: INFO: data_transformation: (1199, 12)]
+[2024-07-17 11:02:11,526: INFO: data_transformation: (400, 12)]
+[2024-07-17 11:02:11,526: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 11:02:11,526: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-07-17 11:02:11,527: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:02:11,527: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:02:11,527: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:02:11,528: INFO: common: created directory at: artifacts]
+[2024-07-17 11:02:11,528: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-17 11:02:11,531: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-07-17 11:02:11,531: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-07-17 11:02:11,532: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:02:11,532: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:02:11,533: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:02:11,533: INFO: common: created directory at: artifacts]
+[2024-07-17 11:02:11,533: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-17 11:02:11,679: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-07-17 11:02:12,765: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 11:11:11,771: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-17 11:11:11,773: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:11:11,773: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:11:11,774: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:11:11,774: INFO: common: created directory at: artifacts]
+[2024-07-17 11:11:11,774: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-17 11:11:11,774: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-07-17 11:11:11,775: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-17 11:11:11,775: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-07-17 11:11:11,775: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:11:11,776: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:11:11,776: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:11:11,776: INFO: common: created directory at: artifacts]
+[2024-07-17 11:11:11,776: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-17 11:11:11,778: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 11:11:11,778: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-07-17 11:11:11,779: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:11:11,779: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:11:11,780: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:11:11,780: INFO: common: created directory at: artifacts]
+[2024-07-17 11:11:11,780: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-17 11:11:11,786: INFO: data_transformation: Splited data into training and test sets]
+[2024-07-17 11:11:11,786: INFO: data_transformation: (1199, 12)]
+[2024-07-17 11:11:11,787: INFO: data_transformation: (400, 12)]
+[2024-07-17 11:11:11,787: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 11:11:11,787: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-07-17 11:11:11,787: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:11:11,788: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:11:11,788: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:11:11,788: INFO: common: created directory at: artifacts]
+[2024-07-17 11:11:11,788: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-17 11:11:11,791: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-07-17 11:11:11,791: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-07-17 11:11:11,792: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:11:11,792: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:11:11,793: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:11:11,793: INFO: common: created directory at: artifacts]
+[2024-07-17 11:11:11,793: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-17 11:11:12,023: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-07-17 11:11:13,173: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 11:12:00,534: INFO: stage_05_model_evaluation: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-07-17 11:12:00,535: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:12:00,535: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:12:00,536: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:12:00,536: INFO: common: created directory at: artifacts]
+[2024-07-17 11:12:00,536: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-17 11:12:00,714: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-07-17 11:12:01,784: INFO: stage_05_model_evaluation: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 11:13:22,500: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-17 11:13:22,501: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:13:22,501: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:13:22,502: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:13:22,502: INFO: common: created directory at: artifacts]
+[2024-07-17 11:13:22,502: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-17 11:13:22,502: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-07-17 11:13:22,503: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-17 11:13:22,503: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-07-17 11:13:22,503: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:13:22,504: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:13:22,504: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:13:22,504: INFO: common: created directory at: artifacts]
+[2024-07-17 11:13:22,504: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-17 11:13:22,506: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 11:13:22,506: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-07-17 11:13:22,507: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:13:22,507: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:13:22,508: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:13:22,508: INFO: common: created directory at: artifacts]
+[2024-07-17 11:13:22,508: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-17 11:13:22,515: INFO: data_transformation: Splited data into training and test sets]
+[2024-07-17 11:13:22,515: INFO: data_transformation: (1199, 12)]
+[2024-07-17 11:13:22,515: INFO: data_transformation: (400, 12)]
+[2024-07-17 11:13:22,515: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 11:13:22,515: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-07-17 11:13:22,516: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:13:22,516: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:13:22,516: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:13:22,516: INFO: common: created directory at: artifacts]
+[2024-07-17 11:13:22,516: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-17 11:13:22,519: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-07-17 11:13:22,519: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-07-17 11:13:22,520: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:13:22,520: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:13:22,521: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:13:22,521: INFO: common: created directory at: artifacts]
+[2024-07-17 11:13:22,521: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-17 11:13:22,726: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-07-17 11:13:23,900: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 11:20:28,437: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-17 11:20:28,438: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:20:28,438: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:20:28,439: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:20:28,439: INFO: common: created directory at: artifacts]
+[2024-07-17 11:20:28,439: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-17 11:20:28,439: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-07-17 11:20:28,441: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-17 11:20:28,441: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-07-17 11:20:28,441: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:20:28,441: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:20:28,442: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:20:28,442: INFO: common: created directory at: artifacts]
+[2024-07-17 11:20:28,442: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-17 11:20:28,444: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 11:20:28,444: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-07-17 11:20:28,445: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:20:28,446: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:20:28,446: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:20:28,446: INFO: common: created directory at: artifacts]
+[2024-07-17 11:20:28,446: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-17 11:20:28,454: INFO: data_transformation: Splited data into training and test sets]
+[2024-07-17 11:20:28,454: INFO: data_transformation: (1199, 12)]
+[2024-07-17 11:20:28,454: INFO: data_transformation: (400, 12)]
+[2024-07-17 11:20:28,454: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 11:20:28,454: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-07-17 11:20:28,455: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:20:28,455: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:20:28,455: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:20:28,455: INFO: common: created directory at: artifacts]
+[2024-07-17 11:20:28,455: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-17 11:20:28,460: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-07-17 11:20:28,460: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-07-17 11:20:28,461: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:20:28,461: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:20:28,461: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:20:28,461: INFO: common: created directory at: artifacts]
+[2024-07-17 11:20:28,461: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-17 11:20:28,663: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-07-17 11:20:29,811: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 11:21:18,081: INFO: stage_05_model_evaluation: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-07-17 11:21:18,083: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:21:18,084: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:21:18,084: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:21:18,084: INFO: common: created directory at: artifacts]
+[2024-07-17 11:21:18,084: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-17 11:21:18,312: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-07-17 11:21:19,481: INFO: stage_05_model_evaluation: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 11:22:52,779: INFO: stage_05_model_evaluation: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-07-17 11:22:52,780: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:22:52,781: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:22:52,781: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:22:52,781: INFO: common: created directory at: artifacts]
+[2024-07-17 11:22:52,781: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-17 11:22:53,014: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-07-17 11:22:54,162: INFO: stage_05_model_evaluation: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 11:39:31,289: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-17 11:39:31,290: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:39:31,292: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:39:31,292: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:39:31,292: INFO: common: created directory at: artifacts]
+[2024-07-17 11:39:31,292: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-17 11:39:31,292: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-07-17 11:39:31,294: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-17 11:39:31,294: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-07-17 11:39:31,295: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:39:31,295: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:39:31,295: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:39:31,296: INFO: common: created directory at: artifacts]
+[2024-07-17 11:39:31,296: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-17 11:39:31,301: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 11:39:31,301: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-07-17 11:39:31,302: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:39:31,302: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:39:31,303: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:39:31,303: INFO: common: created directory at: artifacts]
+[2024-07-17 11:39:31,303: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-17 11:39:31,313: INFO: data_transformation: Splited data into training and test sets]
+[2024-07-17 11:39:31,313: INFO: data_transformation: (1199, 12)]
+[2024-07-17 11:39:31,313: INFO: data_transformation: (400, 12)]
+[2024-07-17 11:39:31,313: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 11:39:31,313: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-07-17 11:39:31,313: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:39:31,314: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:39:31,314: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:39:31,314: INFO: common: created directory at: artifacts]
+[2024-07-17 11:39:31,314: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-17 11:39:31,322: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-07-17 11:39:31,322: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-07-17 11:39:31,322: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:39:31,323: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:39:31,323: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:39:31,323: INFO: common: created directory at: artifacts]
+[2024-07-17 11:39:31,323: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-17 11:39:31,550: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-07-17 11:39:32,788: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 11:47:36,277: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-17 11:47:36,278: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:47:36,279: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:47:36,279: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:47:36,280: INFO: common: created directory at: artifacts]
+[2024-07-17 11:47:36,280: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-17 11:47:36,703: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 70CA:2A7568:10898A:11E9D5:6697DC14
+Accept-Ranges: bytes
+Date: Wed, 17 Jul 2024 15:47:36 GMT
+Via: 1.1 varnish
+X-Served-By: cache-iad-kcgs7200020-IAD
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1721231257.740343,VS0,VE43
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: d3529d41a93f9b0d13d0c5c2bc22528b6968de35
+Expires: Wed, 17 Jul 2024 15:52:36 GMT
+Source-Age: 0
+
+]
+[2024-07-17 11:47:36,706: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-17 11:47:36,707: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-07-17 11:47:36,710: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:47:36,711: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:47:36,713: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:47:36,713: INFO: common: created directory at: artifacts]
+[2024-07-17 11:47:36,713: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-17 11:47:36,723: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 11:47:36,723: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-07-17 11:47:36,725: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:47:36,726: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:47:36,726: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:47:36,727: INFO: common: created directory at: artifacts]
+[2024-07-17 11:47:36,727: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-17 11:47:36,740: INFO: data_transformation: Splited data into training and test sets]
+[2024-07-17 11:47:36,740: INFO: data_transformation: (1199, 12)]
+[2024-07-17 11:47:36,740: INFO: data_transformation: (400, 12)]
+[2024-07-17 11:47:36,740: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 11:47:36,740: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-07-17 11:47:36,741: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:47:36,742: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:47:36,742: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:47:36,742: INFO: common: created directory at: artifacts]
+[2024-07-17 11:47:36,742: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-17 11:47:36,747: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-07-17 11:47:36,747: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-07-17 11:47:36,748: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:47:36,748: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:47:36,749: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:47:36,749: INFO: common: created directory at: artifacts]
+[2024-07-17 11:47:36,749: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-17 11:47:36,991: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-07-17 11:47:38,188: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 11:48:13,980: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:48:13,981: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:48:13,982: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:48:13,982: INFO: common: created directory at: artifacts]
+[2024-07-17 11:48:13,982: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-17 11:48:14,361: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-07-17 11:52:08,075: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:52:08,076: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:52:08,076: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:52:08,077: INFO: common: created directory at: artifacts]
+[2024-07-17 11:52:08,077: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-17 11:52:08,077: INFO: test_pipelines: MLflow URI: https://dagshub.com/Roshinigompa/Data_Science_End_To_End_with_ML.mlflow]
+[2024-07-17 11:52:08,077: INFO: test_pipelines: Test data path: artifacts/data_transformation/test.csv]
+[2024-07-17 11:52:08,077: INFO: test_pipelines: Model path: artifacts/model_trainer/model.joblib]
+[2024-07-17 11:52:08,077: INFO: test_pipelines: Metrics file name: artifacts/model_evaluation/metrics.json]
+[2024-07-17 11:52:08,077: INFO: test_pipelines: All params: {'alpha': 0.9, 'l1_ratio': 0.9}]
+[2024-07-17 11:52:08,077: INFO: test_pipelines: Target column: quality]
+[2024-07-17 11:52:08,338: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-07-17 11:55:19,598: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 11:55:19,599: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 11:55:19,600: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 11:55:19,600: INFO: common: created directory at: artifacts]
+[2024-07-17 11:55:19,600: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-17 11:55:19,600: INFO: test_pipelines: MLflow URI: https://dagshub.com/Roshinigompa/Data_Science_End_To_End_with_ML.mlflow]
+[2024-07-17 11:55:19,600: INFO: test_pipelines: Test data path: artifacts/data_transformation/test.csv]
+[2024-07-17 11:55:19,600: INFO: test_pipelines: Model path: artifacts/model_trainer/model.joblib]
+[2024-07-17 11:55:19,600: INFO: test_pipelines: Metrics file name: artifacts/model_evaluation/metrics.json]
+[2024-07-17 11:55:19,600: INFO: test_pipelines: All params: {'alpha': 0.9, 'l1_ratio': 0.9}]
+[2024-07-17 11:55:19,600: INFO: test_pipelines: Target column: quality]
+[2024-07-17 11:55:19,840: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-07-17 12:04:20,334: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 12:04:20,337: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 12:04:20,338: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 12:04:20,338: INFO: common: created directory at: artifacts]
+[2024-07-17 12:04:20,338: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-17 12:04:20,587: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-07-17 12:16:27,349: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 12:16:27,350: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 12:16:27,351: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 12:16:27,352: INFO: common: created directory at: artifacts]
+[2024-07-17 12:16:27,352: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-17 12:16:27,664: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-07-17 14:01:21,125: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-17 14:01:21,126: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 14:01:21,128: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 14:01:21,128: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 14:01:21,128: INFO: common: created directory at: artifacts]
+[2024-07-17 14:01:21,128: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-17 14:01:21,128: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-07-17 14:01:21,130: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-17 14:01:21,130: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-07-17 14:01:21,131: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 14:01:21,131: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 14:01:21,131: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 14:01:21,132: INFO: common: created directory at: artifacts]
+[2024-07-17 14:01:21,132: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-17 14:01:21,136: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 14:01:21,136: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-07-17 14:01:21,137: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 14:01:21,137: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 14:01:21,138: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 14:01:21,138: INFO: common: created directory at: artifacts]
+[2024-07-17 14:01:21,138: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-17 14:01:21,151: INFO: data_transformation: Splited data into training and test sets]
+[2024-07-17 14:01:21,151: INFO: data_transformation: (1199, 12)]
+[2024-07-17 14:01:21,151: INFO: data_transformation: (400, 12)]
+[2024-07-17 14:01:21,151: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 14:01:21,151: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-07-17 14:01:21,152: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 14:01:21,152: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 14:01:21,153: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 14:01:21,153: INFO: common: created directory at: artifacts]
+[2024-07-17 14:01:21,153: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-17 14:01:21,162: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-07-17 14:01:21,162: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-07-17 14:01:21,162: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 14:01:21,163: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 14:01:21,163: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 14:01:21,163: INFO: common: created directory at: artifacts]
+[2024-07-17 14:01:21,163: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-17 14:01:21,401: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-07-17 14:01:22,630: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 14:04:42,154: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 14:04:42,155: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 14:04:42,156: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 14:04:42,156: INFO: common: created directory at: artifacts]
+[2024-07-17 14:04:42,156: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-17 14:05:07,140: WARNING: connectionpool: Retrying (Retry(total=4, connect=5, read=4, redirect=5, status=5)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /Roshinigompa/Data_Science_End_To_End_with_ML.mlflow/api/2.0/mlflow/runs/create]
+[2024-07-17 14:05:07,603: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-07-17 14:19:04,706: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-07-17 14:19:04,707: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 14:19:04,708: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 14:19:04,709: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 14:19:04,709: INFO: common: created directory at: artifacts]
+[2024-07-17 14:19:04,709: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-17 14:19:04,709: INFO: data_ingestion: File already exists of size: ~ 23 KB]
+[2024-07-17 14:19:04,711: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-07-17 14:19:04,711: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-07-17 14:19:04,712: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 14:19:04,712: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 14:19:04,712: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 14:19:04,712: INFO: common: created directory at: artifacts]
+[2024-07-17 14:19:04,712: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-17 14:19:04,717: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 14:19:04,717: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-07-17 14:19:04,718: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 14:19:04,718: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 14:19:04,718: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 14:19:04,718: INFO: common: created directory at: artifacts]
+[2024-07-17 14:19:04,718: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-17 14:19:04,728: INFO: data_transformation: Splited data into training and test sets]
+[2024-07-17 14:19:04,728: INFO: data_transformation: (1199, 12)]
+[2024-07-17 14:19:04,728: INFO: data_transformation: (400, 12)]
+[2024-07-17 14:19:04,728: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-07-17 14:19:04,728: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-07-17 14:19:04,729: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 14:19:04,729: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 14:19:04,729: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 14:19:04,729: INFO: common: created directory at: artifacts]
+[2024-07-17 14:19:04,729: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-17 14:19:04,741: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-07-17 14:19:04,741: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-07-17 14:19:04,741: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/config/config.yaml loaded successfully]
+[2024-07-17 14:19:04,742: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/params.yaml loaded successfully]
+[2024-07-17 14:19:04,742: INFO: common: yaml file: /Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/schema.yaml loaded successfully]
+[2024-07-17 14:19:04,742: INFO: common: created directory at: artifacts]
+[2024-07-17 14:19:04,742: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-07-17 14:19:04,971: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-07-17 14:19:06,198: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]

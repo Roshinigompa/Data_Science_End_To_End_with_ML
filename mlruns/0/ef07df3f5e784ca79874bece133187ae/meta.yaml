@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/mlruns/0/ef07df3f5e784ca79874bece133187ae/artifacts
+end_time: 1721230772788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef07df3f5e784ca79874bece133187ae
+run_name: sedate-squirrel-111
+run_uuid: ef07df3f5e784ca79874bece133187ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721230771544
+status: 3
+tags: []
+user_id: hymaroshinigompa

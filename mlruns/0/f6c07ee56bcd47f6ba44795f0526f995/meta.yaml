@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/mlruns/0/f6c07ee56bcd47f6ba44795f0526f995/artifacts
+end_time: 1721240346197
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6c07ee56bcd47f6ba44795f0526f995
+run_name: puzzled-vole-871
+run_uuid: f6c07ee56bcd47f6ba44795f0526f995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721240344964
+status: 3
+tags: []
+user_id: hymaroshinigompa

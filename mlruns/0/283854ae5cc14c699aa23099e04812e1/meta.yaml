@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hymaroshinigompa/Downloads/Data_Science_End_To_End_with_ML/mlruns/0/283854ae5cc14c699aa23099e04812e1/artifacts
+end_time: 1721229203900
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 283854ae5cc14c699aa23099e04812e1
+run_name: agreeable-vole-738
+run_uuid: 283854ae5cc14c699aa23099e04812e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721229202720
+status: 3
+tags: []
+user_id: hymaroshinigompa
